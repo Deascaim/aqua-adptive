@@ -1,0 +1,26 @@
+@import "otzyv.css";
+@import "ob_ritm.css";
+
+body
+{
+    background-color: #162831;
+
+}
+
+.article1
+{
+    
+    margin: 1739px 92px;
+    max-width: 1736px;
+    height: 585px;
+    /*outline: 1px #33d613 dashed;*/
+    
+}
+
+.article2
+{
+    margin: 2474px 422px;
+    max-width: 1076px;
+    height: 1024px;
+    /*outline: 1px #c316a0 dashed;*/
+}
